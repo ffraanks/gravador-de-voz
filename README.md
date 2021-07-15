@@ -9,4 +9,4 @@ pip install --user sounddevice
 pip install --user scipy
 ```
 
-<img src="GravadorPY.png">
+<img src="GravacaoPY.png">
